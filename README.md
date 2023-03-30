@@ -5,3 +5,4 @@
 </div>
 
  ## Skills
+ ![Snake animation](https://github.com/Aniketsudke/Aniketsudke/blob/output/github-contribution-grid-snake.svg)
