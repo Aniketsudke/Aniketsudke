@@ -4,5 +4,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=eagrundy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
 </div>
 
- ## Skills
- ![Snake animation](https://github.com/Aniketsudke/Aniketsudke/blob/output/github-contribution-grid-snake.svg)
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/aniketsudke/count.svg" />
+</p>
