@@ -32,9 +32,9 @@
  <a href="https://linkedin.com/in/aniketsudke" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aniketsudke"/>
  </a>
-<!--  <a href="https://dev.to/" target="_blank">
+ <a href="https://dev.to/aniketsudke" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="a" />
- </a> -->
+ </a>
 <!--  <a href="https://twitter.com/" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a> -->
